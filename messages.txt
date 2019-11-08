@@ -1,0 +1,2 @@
+String Question~Thomas~Hi, what is the definition of a string?
+Variable Question~Sabrina~Please explain the difference between declaring and initializing the variable. 
